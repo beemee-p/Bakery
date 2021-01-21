@@ -4,5 +4,6 @@
 
 ## 기술
 * DB : Oracle
+* Server : Tomcat8.5
 * Server-side : Java, Spring
 * Client-side : JavaScript, jQuery, HTML, CSS(BootStrap)
